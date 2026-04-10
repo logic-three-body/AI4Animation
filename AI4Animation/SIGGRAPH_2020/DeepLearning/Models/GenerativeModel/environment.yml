@@ -10,4 +10,6 @@ dependencies:
   - python=3.6.9
   - pytorch=1.2.0
   - scipy
+  - tensorflow=1.15.0
+  - tensorboardx=2.1
   - torchvision

@@ -92,6 +92,14 @@
         "com.vrcoreuxdesign",
         "com.meta"
       ]
+    },
+    {
+      "name": "Unity Packages",
+      "url": "https://packages.unity.com",
+      "scopes": [
+        "com.autodesk",
+        "com.unity.formats"
+      ]
     }
   ]
 }
